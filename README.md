@@ -1,7 +1,7 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 ## AIM
-To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, meta ai, Copilot) in a specific task: text summarization.
+To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
 ### REG.NO: 212223060032
 
@@ -86,7 +86,7 @@ Blockchain technology represents a transformative shift in how data and transact
 
    * ChatGPT (OpenAI)
    * Gemini (Google)
-   * Meta ai (meta)
+   * Claude (Anthropic)
    * Copilot (Microsoft)
 
 5. **Execution**
@@ -132,18 +132,18 @@ Summary:
 | ChatGPT  | Role-based       | 5        | 5         | 5          | 4     | 5  | 24          |
 | Gemini   | Zero-shot        | 3        | 3         | 3          | 5     | 4  | 18          |
 | Gemini   | Few-shot         | 4        | 4         | 4          | 4     | 4  | 20          |
-| meta ai   | Chain-of-Thought | 5        | 5         | 5          | 4     | 4  | 23          |
-| meta ai   | Role-based       | 5        | 5         | 5          | 4     | 5  | 24          |
+| Claude   | Chain-of-Thought | 5        | 5         | 5          | 4     | 4  | 23          |
+| Claude   | Role-based       | 5        | 5         | 5          | 4     | 5  | 24          |
 | Copilot  | Zero-shot        | 3        | 3         | 3          | 5     | 4  | 18          |
 | Copilot  | Few-shot         | 4        | 4         | 4          | 4     | 4  | 20          |
 
 ### PICTORIAL GRAPH
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/223662a6-cf71-409a-b2c1-8e723b13dfde" />
 
-<img width="2000" height="1250" alt="Pictorial Graph" src="pictorial_graph.png" />
 
 
 > **Best Performing Combination:**
-> **meta ai + Role-based Prompting** and **ChatGPT + Few-shot Prompting** both scored **24/25**, showing high effectiveness in summarizing complex content in a simple and structured way for undergraduates.
+> **Claude + Role-based Prompting** and **ChatGPT + Few-shot Prompting** both scored **24/25**, showing high effectiveness in summarizing complex content in a simple and structured way for undergraduates.
 
 
 
