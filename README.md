@@ -138,8 +138,8 @@ Summary:
 | Copilot  | Few-shot         | 4        | 4         | 4          | 4     | 4  | 20          |
 
 ### PICTORIAL GRAPH
-<img width="2000" height="1250" alt="image" src="https://github.com/user-attachments/assets/223662a6-cf71-409a-b2c1-8e723b13dfde" />
 
+<img width="2000" height="1250" alt="Pictorial Graph" src="pictorial_graph.png" />
 
 
 > **Best Performing Combination:**
